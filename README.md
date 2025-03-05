@@ -1,4 +1,10 @@
 # Flavour-Fusion-AI-Driven-Recipe-Blogging
+# Deployment Link
+
+# Video Link
+https://drive.google.com/file/d/1nXiwwUyXIF8xW4Vaor6DbVWv4Dt1bIjR/view?usp=sharing
+# Document Link
+https://docs.google.com/document/d/1kPQZ1mBRiARqpaF5Sp6CZGV3RvfYSUqA/edit?usp=sharing&ouid=106750305216302180897&rtpof=true&sd=true
 
 Category: Cloud Application Development
 
